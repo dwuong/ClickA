@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Folowpoe1\obj\Debug\net8.0-windows\win-x64\Autopilot.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Folowpoe1\obj\Debug\net8.0-windows\win-x64\Autopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Folowpoe1\obj\Debug\net8.0-windows\win-x64\Autopilot.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Folowpoe1\obj\Debug\net8.0-windows\win-x64\Autopilot.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Folowpoe1\obj\Debug\net8.0-windows\win-x64\Autopilot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Folowpoe1\obj\Debug\net8.0-windows\win-x64\Autopilot.sourcelink.json
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.sourcelink.json
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Temp\Autopilot\Autopilot.deps.json
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Temp\Autopilot\Autopilot.dll
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\Autopilot.dll
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\refint\Autopilot.dll
+C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Autopilot\obj\Debug\net8.0-windows\win-x64\ref\Autopilot.dll
