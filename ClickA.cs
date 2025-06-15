@@ -32,7 +32,7 @@ namespace ClickA
             {
                 return;
             }
-
+            
             TryClickTransition();
         }
 
@@ -40,12 +40,22 @@ namespace ClickA
         {
             try
             {
-                var transitionLabels = IngameUi.ItemsOnGroundLabelsVisible?
-                    .Where(x => x.ItemOnGround.Metadata.ToLower().Contains("areatransition")
+                if (IngameUi?.ItemsOnGroundLabelsVisible == null)
+                {
+                    return null;
+                }
+
+                var transitionLabels = IngameUi.ItemsOnGroundLabelsVisible
+                    .Where(x => 
+                        x?.ItemOnGround != null &&
+                        (x.ItemOnGround.Metadata.ToLower().Contains("areatransition") ||
+                         x.ItemOnGround.Metadata.ToLower().Contains("portal") ||
+                         x.ItemOnGround.Metadata.ToLower().EndsWith("ultimatumentrance"))
+                    )
                     .OrderBy(x => Vector3.Distance(PlayerPos, x.ItemOnGround.Pos))
                     .ToList();
 
-                if (transitionLabels == null || !transitionLabels.Any())
+                if (!transitionLabels.Any())
                 {
                     return null;
                 }
